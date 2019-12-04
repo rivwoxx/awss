@@ -4,4 +4,7 @@
 #Phase I not completed
 
 
-#It's still a frankenstein monster 
+#Some issues with Cognito founded
+
+
+#lambda.js needs to be modified
