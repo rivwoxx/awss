@@ -17,11 +17,11 @@ def check_price():
     return (price[:5])
 
 
-URL = "https://articulo.mercadolibre.com.mx/MLM-681420534-pantalla-display-touch-xiaomi-redmi-note-5a-prime-nuevo-_JM"
+URL = "https://articulo.mercadolibre.com.mx/MLM-638492764-antigua-maquina-de-escribir-royal-completa-_JM"
 MY_PRICE = 698
 
-# actual_price = check_price()
-actual_price = int(check_price())
+actual_price = check_price()
+# actual_price = int(check_price())
 print(actual_price)
 # if actual_price <= MY_PRICE:
 #     print('eyop')
